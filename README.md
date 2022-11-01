@@ -1,2 +1,2 @@
 # Projects
-This open repository shows projects in data science and data analysis by Justus Weißmüller
+In this project, a program that simulates customer behaviour in a supermarket is developed.
